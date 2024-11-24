@@ -1,2 +1,0 @@
-# PandoNet-
-Películas 
