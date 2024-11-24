@@ -325,5 +325,4 @@ http://sdmx.vip:80/play/9jJ29EasAM9MV3Vx2arbfIoVfgPGcU12bv_e7SZ-HeufgKooGNFp5sUE
 http://sdmx.vip:80/play/9jJ29EasAM9MV3Vx2arbfJAjlYdZY7fKMfBI-9gZL4yffvUNBOmteEF_1u2FOkrz#.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/qcrbiVMOkAaOyha8BqyVDQCTwh6.jpg" group-title="General",Stranger in the Woods (2024)[M]
 http://sdmx.vip:80/play/9jJ29EasAM9MV3Vx2arbfGG43usQu8JPkzRRVWO03U9y7CcAcRnWUNuue96q5Ax3#.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",  The Strongest vs Wilstermann 
-http://45.226.35.128:3010/play/ikju/index.m3u8
+
