@@ -4,7 +4,7 @@ http://home-playtv.com:8080/live/cristian45x/UQSJS/177337.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
 https://ssh101-fl.bozztv.com/ssh101/pandonettv4201/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
-https://ssh101.com/securelive/index.php?id=megatvcr2024/index.m3u8
+https://glb.bozztv.com/glb/ssh101/megatvcr2024/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_09/large.899496700_A_2021_svg.png.31c9d4552e8f1938b3c6efcbcfc06ea2.png" group-title="General",A MAS GUATE+
 http://00322.xyz:8000/adrianmalossi13/CQP9TJ8MZD/161923
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/101/497/png-transparent-unitel-full-logo-tech-companies.png" group-title="General",UNITEL
