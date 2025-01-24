@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1719479
+http://bedroombullyonline.com:3050/aecargo@aol.com/QB8eYQ7pJ7/611513
 #EXTINF:-1 tvg-logo="https://images.zeno.fm/8jARLj62VTJ0NAFjo5fLhFyMI25SVXGw93d6wybAfe8/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRN3FpT3Bna01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURROXJTUWp3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3MzQxOTMzMjc5Mzg.webp" group-title="General",PANDONETTVRADIO
 https://stream.zeno.fm/vws3fzdakg0uv
 #EXTINF:-1 tvg-logo="https://anp-bolivia.com/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="General", TVU PANDO
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767505
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL HD
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/77987
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL LP
-http://bedroombullyonline.com:3050/live/gnb236@aol.com/JqvLyvyTTy/611073.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",Unitel la paz
-http://bedroombullyonline.com:3050/aecargo@aol.com/QB8eYQ7pJ7/611072
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL La Paz
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1121427
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",Unitel Santa Cruz
+http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1121428
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r6LWLBp/images.jpg" group-title="General",RNVSAM TV 24/7
 https://stream.gia.tv/giatvplayout7/giatv-208170/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdQs7bf/Bolivision.png" group-title="General",BOLIVISION
@@ -33,8 +33,8 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767507
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767503
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HphN1fM/14f9e0e692e37453a4a9d05a2302609f.jpg" group-title="General",TIGO SPORT
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1220636
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HphN1fM/14f9e0e692e37453a4a9d05a2302609f.jpg" group-title="General",Tigo SPORT 3
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1220636
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HphN1fM/14f9e0e692e37453a4a9d05a2302609f.jpg" group-title="General",Tigo SPORT 3 (Solo Eventos)
+http://bedroombullyonline.com:3050/aecargo@aol.com/QB8eYQ7pJ7/611068
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhYcVI9f3b-OGhn5Hz4ycBNAk9ETV0MBpnpg&s" group-title="General",FTV SC HD
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1321623
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8eeTTsj7IeMvk5bEkNa2av7FpwNdB6M7cg&s" group-title="General",PTV HD 
@@ -48,7 +48,7 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1125665
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp" group-title="General",Cartoonito
 http://home-playtv.com:8080/cristian45x/UQSJS/19474
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Bghpr7/babytv-2017.png" group-title="General",BABY TV
-http://home-playtv.com:8080/cristian45x/UQSJS/56214
+http://authxplus-2.xyz:2082/Tourobox1-8qKIUPlGtq/3qGK7IkcS0/342
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LC7YcF3/descarga.jpg" group-title="General",LUIS MIGUEL Viña del mar 
 http://moontools.me:8080/movie/B.O.S.S_I.P/WycFeigyEn/1772744.mkv
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tnt-latin-america-logo-6C5053D00E-seeklogo.com.png" group-title="General",TNT SERIES 
@@ -64,7 +64,7 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/81693
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/noticias-caracol7623.logowik.com.webp" group-title="General",Caracol tv 
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/23463
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_lifetime_m.png" group-title="General", Life Time SD
-http://home-playtv.com:8080/cristian45x/UQSJS/54234
+http://ultrapremium.cloud:8080/33039929/pp6062023/59406
 #EXTINF:-1 tvg-logo="https://prensaescenario.files.wordpress.com/2019/08/image005-12.jpg" group-title="General",El Gourmet SD
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/81659
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="General",TELEMUNDO FULL HD
@@ -127,8 +127,8 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1735179
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/23469
 #EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/661/36/sticker-png-tv-channel-icons-pack-espn-color.png" group-title="General",SPN tv3
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1735180
-#EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/661/36/sticker-png-tv-channel-icons-pack-espn-color.png" group-title="General",SPN3 SUR
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1210659
+#EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/661/36/sticker-png-tv-channel-icons-pack-espn-color.png" group-title="General",SPN  CL HD
+http://ultrapremium.cloud:8080/33039929/pp6062023/501
 #EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/661/36/sticker-png-tv-channel-icons-pack-espn-color.png" group-title="General",SPN2 PREMIUM 
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50839
 #EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/661/36/sticker-png-tv-channel-icons-pack-espn-color.png" group-title="General",SPN HD MÉXICO 
@@ -182,7 +182,7 @@ https://is.gd/aOam0G
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="General",AZTECA INTERNACIONAL 
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/23519
 #EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/caracol-tv-logo-vector.png" group-title="General",CARACOL TV
-http://31768939333943970.ofnm1026.xyz:80/live/vi129554/nKG9EFg53a/943970.ts
+http://ultrapremium.cloud:8080/33039929/pp6062023/331
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="General",MTV
 http://190.108.83.86:8000/play/a05e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="General",GOLDEN (LAT)
@@ -204,7 +204,7 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/26814
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/The_DirecTV_logo.png" group-title="General",DIRECTV SPORT plus 
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/30274
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title="General",UFC 24/7
-http://55857653012786299.ofnm1026.xyz:80/live/he727325/qPBkWsgYbT/786299.ts
+http://ultrapremium.cloud:8080/33039929/pp6062023/20382
 #EXTINF:-1 tvg-logo="https://publicidadmegacable.com.mx/wp-content/uploads/2023/07/tvcdeportes.png" group-title="General",TVCD SPORT 
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/81770
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2SzoSJd5lT0ZmR0PxMxktc/cc2214cecf0cc9d307d6b7ef54a46b98/41_ClaroCinema.png" group-title="General",Claro Tv
@@ -391,8 +391,8 @@ http://tvmate.icu:8080/movie/23177336/23177336/203014.mp4
 http://tvmate.icu:8080/movie/23177336/23177336/203007.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yf2ECVNcLxgRCbFAj9vHvdeqT0.jpg" group-title="General",Pandemic: COVID-19 (2020)
 http://tvmate.icu:8080/movie/23177336/23177336/203013.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY9qXRJA-Lt89B8jLtsusu68Z6zS19xicAxA&s" group-title="General",Super Man hijo Rojo 
-http://abcnew.site:8880/movie/D12m2439/62229525/61875.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY9qXRJA-Lt89B8jLtsusu68Z6zS19xicAxA&s" group-title="General",Super Man - Batman Enemigo Público 
+http://ultrapremium.cloud:8080/movie/33039929/pp6062023/268200.mp4
 #EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/11/cazafantasmas-alla-2523905.jpg?tf=3840x" group-title="General",Caza fantasma: Más allá (2021)
 http://tvmate.icu:8080/movie/23177336/23177336/202367.mp4
 #EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2021/06/cosas-imposibles-ernesto-contreras-1.jpg" group-title="General",Cosas imposibles (2021)
@@ -513,8 +513,8 @@ http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2oL4bxD3jJex-Q3EY-veFOc#.mkv
 http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2qW1bxuRbCDZ4g250-zoNWI#.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/71X1YbY/Utool-20241226-231213698.png" group-title="General",ALQUILER 
 http://344160253918267808.ofdhu1210.xyz:80/play/picasso1/canabate1/267808.ts
-#EXTINF:-1 tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2023/03/22/NT33Y2HSFZC6LAFPM7THP3DBMU.jpg" group-title="General",NETFLIX KIDS
-http://243246186325991915.ofdhu1210.xyz:80/live/te321605/pWSprudDFHE/991915.ts
+#EXTINF:-1 tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2023/03/22/NT33Y2HSFZC6LAFPM7THP3DBMU.jpg" group-title="General",HBO FAMILY 
+http://bedroombullyonline.com:3050/aecargo@aol.com/QB8eYQ7pJ7/611513
 #EXTINF:-1 tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2023/03/22/NT33Y2HSFZC6LAFPM7THP3DBMU.jpg" group-title="General",NETFLIX ACCIÓN 
 http://243246186325991911.ofdhu1210.xyz:80/live/te321605/pWSprudDFHE/991911.ts
 #EXTINF:-1 tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2023/03/22/NT33Y2HSFZC6LAFPM7THP3DBMU.jpg" group-title="General",NETFLIX FULL HD
@@ -531,8 +531,6 @@ http://tv.nousiptv.com:8080/luissequeira/LS2389365/8128
 http://tv.nousiptv.com:8080/luissequeira/LS2389365/1144258
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8fPQm_ticGqkxB2cR6RvWsU8p5j60jPnHA&s" group-title="General",EL CHAVO DEL 8 24/7
 http://tv.nousiptv.com:8080/luissequeira/LS2389365/18576
-
-http://262477253156993248.ofdhu1210.xyz:80/play/picasso1/canabate1/993248.ts
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/abccolor/DWJ3PMHI6VASDOTSCUT5NXM3SI.jpg" group-title="General",Mi Villano favorito 4 (2024)
 http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1214752.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Huye_conejo_huye-605052060-large.jpg" group-title="General",Huye (2024)
@@ -675,12 +673,53 @@ http://fivetv.org:25461/movie/patricio662/paez663/201739.mp4
 http://fivetv.org:25461/movie/patricio662/paez663/201779.mp4
 #EXTINF:-1 tvg-logo="https://www.megawarez.org/wp-content/uploads/2019/07/Atrapada-en-el-Manicomio-La-Historia-de-Nellie-Bly-2019-cartel-poster-latino.jpg" group-title="General",Atrapada en el manicomio (2019)
 http://fivetv.org:25461/movie/patricio662/paez663/201992.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ALIADOS (2016)
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/11400/11473/003_p.jpg" group-title="General",ALIADOS (2016)
 http://fivetv.org:25461/movie/patricio662/paez663/235663.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",NO TE MUERAS: EL HOMBRE QUE QUIERE VIVIR PARA SIEMPRE (2025)
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/323396862/s718/dont-die-the-man-who-wants-to-live-forever.jpg" group-title="General",NO TE MUERAS: EL HOMBRE QUE QUIERE VIVIR PARA SIEMPRE (2025)
 http://moontools.me:8080/movie/B.O.S.S_I.P/WycFeigyEn/1839894.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",N° 24 (2025)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlEntu7ni10-qEYokL-yWjFZWgw4Zs1QDaA&s" group-title="General",N° 24 (2025)
 http://moontools.me:8080/movie/B.O.S.S_I.P/WycFeigyEn/1839896.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",7200 segundos con Ana mena (2023)
-http://cms-sp.noaccesss.me:25461/movie/U55ANS97HUX3XL/449UA611Q2S8IC/27914.mkv
-
+#EXTINF:-1 tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo.png" group-title="General",DSPORTS PLUS  TV FHD
+http://177.53.155.236:8000/play/a0co
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhntM85sqdzTieC-mULaD11INKJz4XaXuR_saTnakIgFHG6GU08wFzRvR7qSFMBfAm9MbGVmxVse3Z5F-ZDY740jH1oiUudtXYG-i6X7hyphenhyphenoRRml_-y3-gIkMPPduyqKrihHorWc9n0YSoo/s1600/cats.jpg" group-title="General",PREMIER CLUBES HD
+http://authxplus-2.xyz:2082/Tourobox1-8qKIUPlGtq/3qGK7IkcS0/164
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="General",COMBATE HD
+http://authxplus-2.xyz:2082/Tourobox1-8qKIUPlGtq/3qGK7IkcS0/123
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="General",DANZ F1 SD ES
+http://mega4k.one:8080/jatin123/123456/116620
+#EXTINF:-1 tvg-logo="http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9516" group-title="General",SPAN 4 HDR
+http://authxplus-2.xyz:2082/Tourobox1-8qKIUPlGtq/3qGK7IkcS0/899
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="General",RECORD SP HDR+ 
+http://authxplus-2.xyz:2082/Tourobox1-8qKIUPlGtq/3qGK7IkcS0/999
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Romance_TV_Logo_2015.png/1280px-Romance_TV_Logo_2015.png" group-title="General",Amantes del Romance  24/7
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268072-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68743968-8695-4725-b7a7-5a4926c380d1
+#EXTINF:-1 tvg-logo="https://www.novelisima.com/_next/image?url=https%3A%2F%2Fkki5auiqw9.execute-api.us-east-1.amazonaws.com%2Fstg%2Fresize%3Furl%3Dhttps%3A%2F%2Ffrankly-vod.akamaized.net%2Fnov%2Fuploaded%2F660f002a-13fb-46d7-a2d7-d998b59738a1.png&w=3840&q=90" group-title="General",NOVELISIMA
+https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
+#EXTINF:-1 tvg-logo="https://b2357908.smushcdn.com/2357908/wp-content/uploads/2020/10/2-cine-romantico-logo-only.png?lossy=1&strip=1&webp=1" group-title="General",CINE ROMÁNTICO 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4f1233c35ada25f58697e58497c6524c94f6b4c8c0894a478d75ee813e6da5cb.jpg" group-title="General",EL CONTRATISTA (2022)
+http://lalechuza.top:80/movie/5ag3fSvUCT/jxS36jbXqY/74506.mkv
+#EXTINF:-1 tvg-logo="https://film-authority.com/wp-content/uploads/2023/03/share-1.jpg" group-title="General",JOHN WICK  4 (2023)
+http://lalechuza.top:80/movie/5ag3fSvUCT/jxS36jbXqY/75601.mkv
+#EXTINF:-1 tvg-logo="https://www.mundiario.com/asset/thumbnail,1280,720,center,center/media/cineseries/images/2022/04/12/2022041219572861236.png" group-title="General",LA CIUDAD PERDIDA  (2022)
+http://lalechuza.top:80/movie/5ag3fSvUCT/jxS36jbXqY/75579.mkv
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWmZJ69lkKyKixMhLIMjrFeCzgSjFJ4k3gQlfm365WSEelA8ebbLOb1s8WYqz5pG1Aky5ZVmcMKEGGeON0BXI5PNHYhpLbiTp0MDkDoiBHrIzqqLwEurSdlfyrU4KKIR__o1shvXFOsAvUqjuDlpWxC5JpP3IvrNaJzUkm1AqaEh4Uwby_XQkIO73MHu4/w640-h362/vlcsnap-2024-02-28-13h33m36s319.png" group-title="General",Codigo 8 parte 2 (2024)
+http://lalechuza.top:80/movie/5ag3fSvUCT/jxS36jbXqY/75691.mkv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FtetDCS6jF4/maxresdefault.jpg" group-title="General",MÚSICA (2024)
+http://lalechuza.top:80/movie/5ag3fSvUCT/jxS36jbXqY/78708.mkv
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Win sport Colombia SD
+http://tvmate.icu:8080/23177336/23177336/78717
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1fMOyRvhw8GmBDAtwRJCV2Y3Njyr9UT4o8Q&s" group-title="General",De Vuelta a la Acción  (2025)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268779.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg3ZTBhYjktOGUwOC00YWUzLWE0YzktYTgyZWY5MTZlZjkxXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="General",CALENDARIO MORTAL (2025)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268771.mp4
+#EXTINF:-1 tvg-logo="https://media.c5n.com/p/f41cb2529b45fc2487eacd8d8ca46f43/adjuntos/326/imagenes/000/310/0000310149/790x0/smart/ad-vitam.png" group-title="General",AD VITAM (2025)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268613.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/img/1e/a8/1ea8f04ad83d5ada5135cb5453b695e6.jpeg" group-title="General",Parano IA (2024)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268614.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQonMwTkyA6zcFBvi4-4Nj8qWQTtQwdnnHDFQ&s" group-title="General",El candidato Honesto 
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268615.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRml3EUSQQjyq9y6T52Ds-X9WD4m2KmTP_JHg&s" group-title="General",Kravem the Hunter (2024)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268716.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Imparable_La_historia_de_Anthony_Robles-494329093-large.jpg" group-title="General",Imparable: La historia de Antony Robles (2024)
+http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268772.mp4
