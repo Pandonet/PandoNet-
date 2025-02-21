@@ -1,14 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
+http://201.182.248.254:8888/play/a063/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.zeno.fm/8jARLj62VTJ0NAFjo5fLhFyMI25SVXGw93d6wybAfe8/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRN3FpT3Bna01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURROXJTUWp3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3MzQxOTMzMjc5Mzg.webp" group-title="General",PANDONETTV DEPORTES SOLO EVENTOS
 https://ssh101-fl.bozztv.com/ssh101/pandonettv4201/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.zeno.fm/8jARLj62VTJ0NAFjo5fLhFyMI25SVXGw93d6wybAfe8/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRN3FpT3Bna01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURROXJTUWp3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3MzQxOTMzMjc5Mzg.webp" group-title="General",PANDONETTVRADIO
-https://stream.zeno.fm/vws3fzdakg0uv
 #EXTINF:-1 tvg-logo="https://anp-bolivia.com/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="General", TVU PANDO
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767505
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL PANDO 
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/188424
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL HD
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/77987
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdQs7bf/Bolivision.png" group-title="General",BOLIVISION
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGEJ7PZPt6SAIsF1YzqXMxcWzWQpzSnJT7cw&s" group-title="General",PODER DE DIOS
+http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767501
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="General",RTP
 http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1767454
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTKLnNTBtjhb64a-hY7OnezpCP0rMiuILb9R_hVdF9XqhdxsVRs4WmeQJ5o0W1rYHFNw&usqp=CAU" group-title="General",RED UNO
