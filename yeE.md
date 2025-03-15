@@ -767,3 +767,53 @@ http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/16965.mkv
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17330.mkv
 #EXTINF:-1 tvg-logo="https://www.mubis.es/media/articles/33597/329274/primeros-datos-de-su-ultimo-combate-en-blu-ray-original.jpg" group-title="General",SU ÚLTIMO COMBATE (2024)
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Colectivo" tvg-logo="https://image.tmdb.org/t/p/w400/tZdaFhAOONH0yg3phMvytchS7m6.jpg" group-title="🎬 ESTRENOS 2024 ▶️",El Colectivo
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/ade24264-7f16-4dcb-b95f-8df8d625e2ad.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dark Match" tvg-logo="https://image.tmdb.org/t/p/w400/6E6fBED3ix7FmrWUWZdeYG4vqK8.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Dark Match
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/d440936f-43c6-4c6e-9972-3f18cf9841b1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dalia y el libro rojo" tvg-logo="https://image.tmdb.org/t/p/w400/oyGyAQZOj7NzyLxCZX7FHKYELP1.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Dalia y el libro rojo
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/37a35a38-7b16-4e05-9b64-9f1be50efdff.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bajo Custodia" tvg-logo="https://image.tmdb.org/t/p/w400/76Yt2zwCjzMruHis18wWBE9J6eh.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Bajo Custodia
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/07651374-353f-44d5-8533-b9ade7a314b7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esperando la noche" tvg-logo="https://image.tmdb.org/t/p/w400/7vsZi00TVXkWBqqDhSAMEhlxJSL.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Esperando la noche
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/09851436-4173-41f0-873f-cbea1ddff1a2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La clave del problema" tvg-logo="https://image.tmdb.org/t/p/w400/437stNTlbccSmNeAKGtO617ryYJ.jpg" group-title="🎬 ESTRENOS 2024 ▶️",La clave del problema
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/1ecbc707-a310-4fc7-a920-1b128eed62d7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La maldición de Cenicienta" tvg-logo="https://image.tmdb.org/t/p/w400/SFewWt1tXEqGq08oZqH1q78gzM.jpg" group-title="🎬 ESTRENOS 2024 ▶️",La maldición de Cenicienta
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/11b25fbe-200d-4041-a5d7-2a8a34a9c1c1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Novia a medida" tvg-logo="https://image.tmdb.org/t/p/w400/dRaHoBWFWG23EAEKPQYo1GBcpP9.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Novia a medida
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/b6447d43-315a-467e-81b0-f3d8e023a304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Melodía del mal" tvg-logo="https://image.tmdb.org/t/p/w400/8lrevAFLg3Sdn6E76cMSeBg3NJh.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Melodía del mal
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/6d4becfd-4165-43b0-9899-be3f7709e477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shark Girl" tvg-logo="https://image.tmdb.org/t/p/w400/o9TpXnGskHRQcHtX4NYndP6o0zA.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Shark Girl
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/7186c59d-a28c-4cdf-b441-bdcfeacb61d8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tormenta ácida" tvg-logo="https://image.tmdb.org/t/p/w400/wF7uDFO5KSstsSKJfIOqcUoknn2.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Tormenta ácida
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/8b8851fa-2308-4fc4-a802-2eb99a487811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escapada de espanto" tvg-logo="https://image.tmdb.org/t/p/w400/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg" group-title="🎬 ESTRENOS 2025 🔥",Escapada de espanto
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/0098a03c-0949-4862-9d5f-19fa0fd9fed7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lee Miller: Retratos de Guerra" tvg-logo="https://image.tmdb.org/t/p/w400/nmm7lLqF5mAzn3OvO7qJwFGbi2v.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Lee Miller: Retratos de Guerra
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/f3ab9a30-3b56-4501-9c17-11f72d85a605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estado eléctrico" tvg-logo="https://image.tmdb.org/t/p/w400/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg" group-title="🎬 ESTRENOS 2025 🔥",Estado eléctrico
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/01849e82-fc0f-4f9b-840f-70f787c0c2e8.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Contadora De Películas" tvg-logo="https://image.tmdb.org/t/p/w400/a5OVaZg2u7x0kDTu3HUv0A5MMch.jpg" group-title="🎬 ESTRENOS 2023 ▶️",La Contadora De Películas
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/e704e207-1b42-4f99-b69a-c242a80906f9.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escapada de espanto" tvg-logo="https://image.tmdb.org/t/p/w400/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg" group-title="🎬 ESTRENOS 2025 🔥",Escapada de espanto
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/7d926d3d-80c6-4146-8ce8-57f41dcc726c.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estado eléctrico" tvg-logo="https://image.tmdb.org/t/p/w400/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg" group-title="🎬 ESTRENOS 2025 🔥",Estado eléctrico
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/418c125b-4406-419a-9ec6-5d8e0cef000e.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Triple frontera" tvg-logo="https://image.tmdb.org/t/p/w400/sYWfXTIfuAUr9ZmgYnQc5sjz26j.jpg" group-title="🎬 SOLICITADOS ▶️",Triple frontera
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/2c6d2dfc-1128-457f-a068-30d0681e149b.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo II - La misión" tvg-logo="https://image.tmdb.org/t/p/w400/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg" group-title="🎬 SOLICITADOS ▶️",Rambo II - La misión
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/64c9d04a-360b-4688-a167-6509e27487a2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Finch" tvg-logo="https://image.tmdb.org/t/p/w400/niBKaDmBtZVJTN1ATpHlyrFEa71.jpg" group-title="🎬 SOLICITADOS ▶️",Finch
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/26b78692-8514-4d5c-91ab-7e83cb3a4f35.mp4
+#EXTINF:-1 tvg-id="" tvg-name="María, ¡Me muero!" tvg-logo="https://image.tmdb.org/t/p/w400/zRjj0HjUL1wXuSqV0ctKn5ObJu5.jpg" group-title="🎬 ESTRENOS 2025 🔥",María, ¡Me muero!
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/1ad2bd0e-acd5-4749-9f38-794934db6710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blindado: Sin Salida" tvg-logo="https://image.tmdb.org/t/p/w400/teKwEThO6MEJQ3IZKaOHAky6zvq.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Blindado: Sin Salida
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/3303c782-480e-4233-85c1-e395d66936fc.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lotería Letal" tvg-logo="https://image.tmdb.org/t/p/w400/5nvUBIb3dWvIxIcigsKVfUuy8pE.jpg" group-title="🎬 ESTRENOS 2023 ▶️",Lotería Letal
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/4fa42a4b-3612-4320-8f76-ae997d6c5bb7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Novocaine sin dolor | HDTS 1win" tvg-logo="https://image.tmdb.org/t/p/w400/sPauBC638fpNHj1Bl3Qto8uWO93.jpg" group-title="🎬 VOD CAM ▶️",Novocaine sin dolor | HDTS 1win
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/6f1167be-d766-4e72-a2bc-1d98eade0207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lo Que Diga el Corazón, Niche S1 E1" tvg-logo="s:1:/images/d65bbabc700a42b7bb53ca3aac97f095.jpg" group-title="* SERIES DE TV⏯️ *",Lo Que Diga el Corazón, Niche S1 E1
+http://mundo2.pro:80/series/pe4700mary/Bm2N6Um9HH4p/ba3f0acf-2e13-4aa9-b83a-6d321c6c337f.mp4
