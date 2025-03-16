@@ -397,8 +397,6 @@ http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/101746.avi
 http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1135333.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yf2ECVNcLxgRCbFAj9vHvdeqT0.jpg" group-title="General",Pandemia la guerra final(2021)
 http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1332187.mkv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY9qXRJA-Lt89B8jLtsusu68Z6zS19xicAxA&s" group-title="General",Super Man - Batman Enemigo Público 
-http://ultrapremium.cloud:8080/movie/33039929/pp6062023/268200.mp4
 #EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/11/cazafantasmas-alla-2523905.jpg?tf=3840x" group-title="General",Caza fantasma: Más allá (2021)
 http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/2925.mkv
 #EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2021/06/cosas-imposibles-ernesto-contreras-1.jpg" group-title="General",CONTIGO  EN EL FUTURO (2025)
