@@ -10,7 +10,7 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/77987
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdQs7bf/Bolivision.png" group-title="General",BOLIVISION
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGEJ7PZPt6SAIsF1YzqXMxcWzWQpzSnJT7cw&s" group-title="General",PODER DE DIOS
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767501
+https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="General",RTP
 http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1767454
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTKLnNTBtjhb64a-hY7OnezpCP0rMiuILb9R_hVdF9XqhdxsVRs4WmeQJ5o0W1rYHFNw&usqp=CAU" group-title="General",RED UNO
