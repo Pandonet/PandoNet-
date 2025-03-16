@@ -539,38 +539,6 @@ http://fivetv.org:25461/movie/patricio662/paez663/288282.mp4
 http://fivetv.org:25461/movie/patricio662/paez663/198148.mkv
 #EXTINF:-1 tvg-logo="https://www.elsetantanou.com/imagenes/poridentidad?identidad=bfb00b91-8a97-4cad-bedd-137e9887e48f&ancho=900&alto=" group-title="General",Anaconda (1997)
 http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/91439.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsdAtP_P86IGIVbNeZXAtRVZZ45KugQK1zpZuGVDX6m068J7ktioM6v5t3mxDLCPR-nU&usqp=CAU" group-title="General",Cara cortada (1983)
-http://fivetv.org:25461/movie/patricio662/paez663/55438.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/blunt_force_trauma-301406427-large.jpg" group-title="General",Disparo Letal (2015)
-http://fivetv.org:25461/movie/patricio662/paez663/198000.mp4
-#EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1EF58DAE20F67C237F15DB3B893A7D64A9C2803E6255631E3EB7A11B4B285816/scale?width=1200&aspectRatio=1.78&format=webp" group-title="General",Más allá de la montaña (2017)
-http://fivetv.org:25461/movie/patricio662/paez663/235723.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hGYGmUnybAI/maxresdefault.jpg" group-title="General",He Man y los amos del universo (1987)
-http://fivetv.org:25461/movie/patricio662/paez663/235600.mp4
-#EXTINF:-1 tvg-logo="https://puntorojolibros.com/wp-content/uploads/2023/08/10000-Anos-Antes-de-Cristo.jpg" group-title="General",10.000 A.C.  (2008)
-http://fivetv.org:25461/movie/patricio662/paez663/201739.mp4
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwUsDWCj3EoP1kqs_WG-93VJL82BR3r0yqFC_JPnBrwo-Biq40xE4JJMcMh4jdSeUckP7GSNXKSMQD288LoEwJcCUG_jvCQNcnznLeMfC8YD2NOWpnbk86XQmKsRZb_Zjb_KWUC9JJq9mH/s640/02.jpg" group-title="General",A.I INTELIGENCIA ARTIFICIAL (2001)
-http://fivetv.org:25461/movie/patricio662/paez663/201779.mp4
-#EXTINF:-1 tvg-logo="https://www.megawarez.org/wp-content/uploads/2019/07/Atrapada-en-el-Manicomio-La-Historia-de-Nellie-Bly-2019-cartel-poster-latino.jpg" group-title="General",Atrapada en el manicomio (2019)
-http://fivetv.org:25461/movie/patricio662/paez663/201992.mkv
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/11400/11473/003_p.jpg" group-title="General",ALIADOS (2016)
-http://fivetv.org:25461/movie/patricio662/paez663/235663.mp4
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/323396862/s718/dont-die-the-man-who-wants-to-live-forever.jpg" group-title="General",NO TE MUERAS: EL HOMBRE QUE QUIERE VIVIR PARA SIEMPRE (2025)
-http://moontools.me:8080/movie/B.O.S.S_I.P/WycFeigyEn/1839894.mkv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlEntu7ni10-qEYokL-yWjFZWgw4Zs1QDaA&s" group-title="General",N° 24 (2025)
-http://moontools.me:8080/movie/B.O.S.S_I.P/WycFeigyEn/1839896.mkv
-#EXTINF:-1 tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo.png" group-title="General",DSPORTS PLUS  TV FHD
-http://177.53.155.236:8000/play/a0co
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhntM85sqdzTieC-mULaD11INKJz4XaXuR_saTnakIgFHG6GU08wFzRvR7qSFMBfAm9MbGVmxVse3Z5F-ZDY740jH1oiUudtXYG-i6X7hyphenhyphenoRRml_-y3-gIkMPPduyqKrihHorWc9n0YSoo/s1600/cats.jpg" group-title="General",PREMIER CLUBES HD
-http://authxplus-2.xyz:2082/Tourobox1-8qKIUPlGtq/3qGK7IkcS0/164
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="General",COMBATE HD
-http://authxplus-2.xyz:2082/Tourobox1-8qKIUPlGtq/3qGK7IkcS0/123
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="General",DANZ F1 SD ES
-http://mega4k.one:8080/jatin123/123456/116620
-#EXTINF:-1 tvg-logo="http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9516" group-title="General",SPAN 4 HDR
-http://authxplus-2.xyz:2082/Tourobox1-8qKIUPlGtq/3qGK7IkcS0/899
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="General",RECORD SP HDR+ 
-http://authxplus-2.xyz:2082/Tourobox1-8qKIUPlGtq/3qGK7IkcS0/999
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Romance_TV_Logo_2015.png/1280px-Romance_TV_Logo_2015.png" group-title="General",Amantes del Romance  24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268072-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68743968-8695-4725-b7a7-5a4926c380d1
 #EXTINF:-1 tvg-logo="https://www.novelisima.com/_next/image?url=https%3A%2F%2Fkki5auiqw9.execute-api.us-east-1.amazonaws.com%2Fstg%2Fresize%3Furl%3Dhttps%3A%2F%2Ffrankly-vod.akamaized.net%2Fnov%2Fuploaded%2F660f002a-13fb-46d7-a2d7-d998b59738a1.png&w=3840&q=90" group-title="General",NOVELISIMA
