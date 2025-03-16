@@ -29,8 +29,6 @@ http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/77987
 https://stream.gia.tv/giatvplayout7/giatv-208170/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="General",Bolivia Tv
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://redamerica.tv.bo/wp-content/uploads/2024/01/cropped-cropped-logo_ra.png" group-title="General",TV AMÉRICA 
-https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
 #EXTINF:-1 tvg-logo="https://logoeps.com/wp-content/uploads/2014/02/49003-tu-tv-logo-icon-vector-icon-vector-eps.png" group-title="General",TU TV HD
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767507
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000598158366/ce341dbe8fb83764c7bb9ef3c1e559ff_400x400.png" group-title="General",SITEL POTOSÍ 
@@ -483,18 +481,12 @@ http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1852570.mkv
 http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1799339.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAzI8FBTFVYPpaFviN5VI65TZsVN481jSTQ&s" group-title="General",Nunca me encontrarás (2024)
 http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1835345.mkv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_5D7rSajUfvRmev9TQeMhvlJlImYOEQF_sg&s" group-title="General",El planeta de Janet (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1225484.mkv
 #EXTINF:-1 tvg-logo="https://cinreservas.com/wp-content/uploads/2024/12/Mufasa-WEB.png" group-title="General",Mufasa: El Rey León (2024)
 http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1841276.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHBASk_dvh5wxhbXil2j3efEfofyTTQj31w&s" group-title="General",Sonic 3 La película (2024)
 http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268982.mp4
 #EXTINF:-1 tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/05/29/17170124352000.jpg" group-title="General",Moana 2 (2024)
 http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/269076.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf3P6TiJbUbKb0YRvtxslfzz_eqr0U48aRg&s" group-title="General",Santa Homero (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1227573.mkv
-#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/12/image-59.png" group-title="General",Avicii Mi Último Show (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1228702.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY3Yzg1NmYtZjgwNi00ZTRmLWI4ZjQtOWEzOTk0MmE4MThmXkEyXkFqcGc@._V1_.jpg" group-title="General",No hables con Extraños (2024)
 http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1224698.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjKOa9XRW2Nlpg4yFGu9-b0VH8JS20yWMzyQ&s" group-title="General",ABSOLUTION (2024)
