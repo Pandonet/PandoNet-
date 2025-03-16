@@ -425,18 +425,10 @@ http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2iz7bgRTB3j1Pa9nNCaooVg#.mkv
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9pce20GDwIBm3MI5eD7dDyOeI1M.jpg" group-title="General",Redada Asesina
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdIz6Gu-Kj3SH8QpqWFDYTF3jAMGIzSpy7Q&s" group-title="General",GitsawVIII
-https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_latam/screenshot/default/deadpool-wolverine_b93u.1280.png" group-title="General",DEADPOOL Y LOBEZNO 
-http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2hnQgvtUfhpfau9rcWQlRtg#.mkv
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/530/522/png-transparent-garfield-a-tail-of-two-kitties-playstation-2-film-garfield-sticker-telegram.png" group-title="General",GARFIELD LA PELÍCULA 
-http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2q0YeocEDlbhX3Dj4c3cVIs#.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e_6n9Pm-Xqc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLABJ1KaEPJgCJkgSkAr6yai_pw6tg" group-title="General",LA PISCINA (2024)
 http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1631126.mkv
 #EXTINF:-1 tvg-logo="https://static.filmin.es/images/es/media/44055/6/card_0_3.webp" group-title="General",PELIGROSOS JUEGOS DE FAMILIA (2024)
 http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2sd88HE3mA7yy5udZ68lZ4o#.mkv
-#EXTINF:-1 tvg-logo="https://lucasfh1976.wordpress.com/wp-content/uploads/2023/10/golpeawallstreet.webp" group-title="General",GOLPE A WALL STREET (2023)
-http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2oL4bxD3jJex-Q3EY-veFOc#.mkv
 #EXTINF:-1 tvg-logo="https://imgmedia.larepublica.pe/640x371/larepublica/original/2024/09/08/66de21a03bd55f4dec2faec3.webp" group-title="General",ASESINATO (2024)
 http://home-playtv.com:80/play/40Sg0Uz92RMYeJNvfclw2qW1bxuRbCDZ4g250-zoNWI#.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/71X1YbY/Utool-20241226-231213698.png" group-title="General",Mi MÚSICA 
@@ -449,18 +441,12 @@ http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1726914
 http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1726867
 #EXTINF:-1 tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2023/03/22/NT33Y2HSFZC6LAFPM7THP3DBMU.jpg" group-title="General",EL JUEGO DEL CALAMAR S01
 http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1726866
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",ADRENALINA DEPORTIVA 
-http://148.113.190.252:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",CINE PÁNICO HD 24/7
-http://148.113.190.252:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9BxgfT4j9sMUmPoXH5nUk5uFO0KkCX3kUQg&s" group-title="General",CINE HISPANO 
 http://8.242.176.45:1013/play/a0eu/index.m3u8
 #EXTINF:-1 tvg-logo="https://iamcantinflas.com/wp-content/uploads/2022/05/cantinflas-biography.png" group-title="General",Cantinflas 24/7
 http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1528016
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8fPQm_ticGqkxB2cR6RvWsU8p5j60jPnHA&s" group-title="General",EL CHAVO DEL 8 24/7
 http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/1125753
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/abccolor/DWJ3PMHI6VASDOTSCUT5NXM3SI.jpg" group-title="General",Mi Villano favorito 4 (2024)
-http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1730443.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Huye_conejo_huye-605052060-large.jpg" group-title="General",Huye (2024)
 http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1793686.mkv
 #EXTINF:-1 tvg-logo="https://diamondfilms.com/img/poster/66ce21d4eca89069a476c9c0e.jpg" group-title="General",El plan del asesino 
@@ -556,7 +542,7 @@ http://fivetv.org:25461/movie/patricio662/paez663/256898.mp4
 #EXTINF:-1 tvg-logo="https://www.cinecutre.com/wp-content/uploads/2020/04/475148_530881073624519_930203335_o-1024x471.jpg" group-title="General",EL HOMBRE DE ACERO (2013)
 http://fivetv.org:25461/movie/patricio662/paez663/288289.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YttQUY-EWo8/sddefault.jpg" group-title="General",Mujer Maravilla (2017)
-http://fivetv.org:25461/movie/patricio662/paez663/288294.mp4
+http://416streams.sytes.net:3050/zdmarie1954@gmail.com/B7B5UCmjaE/611067
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/eu1GFdJBBbDC6mTiwPcJ5Gjf8aV48dOI70no9kJKUhgprcS5mV9XqV-YsjXDYfAodkjmdKS-jrbnL1a61A" group-title="General",Mujer Maravilla 1984 (2020)
 http://fivetv.org:25461/movie/patricio662/paez663/288295.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc7-AT5WoCK1Wf8uURN5I1wUMBmGcvsn8eEw&s" group-title="General",Shazam (2019)
