@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
-http://201.182.248.254:8888/play/a063/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.zeno.fm/8jARLj62VTJ0NAFjo5fLhFyMI25SVXGw93d6wybAfe8/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRN3FpT3Bna01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURROXJTUWp3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3MzQxOTMzMjc5Mzg.webp" group-title="General",PANDONETTV DEPORTES SOLO EVENTOS
+https://ssh101-fl.bozztv.com/ssh101/pandonettv4201/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.zeno.fm/8jARLj62VTJ0NAFjo5fLhFyMI25SVXGw93d6wybAfe8/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRN3FpT3Bna01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURROXJTUWp3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3MzQxOTMzMjc5Mzg.webp" group-title="General",PANDONETTV 
 https://ssh101-fl.bozztv.com/ssh101/pandonettv4201/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://anp-bolivia.com/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="General", TVU PANDO
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767505
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL PANDO 
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/188424
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL HD
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/77987
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdQs7bf/Bolivision.png" group-title="General",BOLIVISION
@@ -38,7 +36,7 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767507
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000598158366/ce341dbe8fb83764c7bb9ef3c1e559ff_400x400.png" group-title="General",SITEL POTOSÍ 
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767503
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HphN1fM/14f9e0e692e37453a4a9d05a2302609f.jpg" group-title="General",TIGO SPORT
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1220636
+http://tvpremiund.ddns.me:2082/live/ROBERTOFIERRO/J5xYCry8aAWC/3123.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HphN1fM/14f9e0e692e37453a4a9d05a2302609f.jpg" group-title="General",Tigo SPORT 3 (Solo Eventos)
 http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/108201
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhYcVI9f3b-OGhn5Hz4ycBNAk9ETV0MBpnpg&s" group-title="General",FTV SC HD
@@ -95,8 +93,6 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22077
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/14232
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="General",AMÉRICA TV HD 1
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/14232
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="General",AMERICA TV SD
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22144
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="General",AMERICA TV HD3
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/19007
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" group-title="General",Fox SPORT 
