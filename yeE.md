@@ -473,20 +473,6 @@ http://moontools.me:8080/movie/SuleikaA69/cLHuZKHQn3p7/1841276.mkv
 http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268982.mp4
 #EXTINF:-1 tvg-logo="https://e00-mx-marca.uecdn.es/mx/assets/multimedia/imagenes/2024/05/29/17170124352000.jpg" group-title="General",Moana 2 (2024)
 http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/269076.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY3Yzg1NmYtZjgwNi00ZTRmLWI4ZjQtOWEzOTk0MmE4MThmXkEyXkFqcGc@._V1_.jpg" group-title="General",No hables con Extraños (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1224698.mkv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjKOa9XRW2Nlpg4yFGu9-b0VH8JS20yWMzyQ&s" group-title="General",ABSOLUTION (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1224816.mkv
-#EXTINF:-1 tvg-logo="https://moviecrazyplanet.com/wp-content/uploads/2024/09/The-Apprentice-Sebastian-Stan-poster.jpg" group-title="General",El Aprendiz (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1226864.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QCQ2RQS/20563s-O0ng-Ivz-C7w-E9-MSKpe-Bv-S2.jpg" group-title="General",Las desapariciones (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1225311.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Ladrones_con_clase-787149656-large.jpg" group-title="General",Ladrones con clase (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1228652.mkv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1mGz3iif417xUR3c4hRW7U0CIgP3M7PkpIg&s" group-title="General",Blitz (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1228698.mp4
-#EXTINF:-1 tvg-logo="https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237414/Flow_Janus_Poster_27x40_02_web.jpg" group-title="General",Flow (2024)
-http://tv.nousiptv.com:8080/movie/luissequeira/LS2389365/1219334.mkv
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0KSwstlloVXvsa4sEgx-IJTrYq-_3GvAVbVSquUvcl3k57t7jQbiUVb3vhY39IUGbcc6uZ4XaoZoqzIdTaxd" group-title="General",El perro Cobarde 
 http://tvmate.icu:8080/movie/23177336/23177336/202439.mp4
 #EXTINF:-1 tvg-logo="https://img-tomatazos.buscafs.com/372388/372388_600x315.jpg" group-title="General",Colisión 
@@ -499,8 +485,6 @@ http://tvmate.icu:8080/movie/23177336/23177336/202400.mp4
 http://tvmate.icu:8080/movie/23177336/23177336/202613.mp4
 #EXTINF:-1 tvg-logo="https://occ-0-8407-1361.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABad1_4s9A1nK33HACN8-2o2R_rX4rFIhQCAxbJtdkWDWaFRkrEs7RIpXey9SEBke7QB_UV2s2PQ3879LXNHljUUd4DHkFC9OXhaN.jpg?r=75e" group-title="General",Distancia de rescate (2021)
 http://tvmate.icu:8080/movie/23177336/23177336/202452.mkv
-#EXTINF:-1 tvg-logo="https://www.americatv.com.pe/cinescape/wp-content/uploads/2022/08/ATRAPADO-AFICHE.png" group-title="General",Atrapados (2012)
-http://fivetv.org:25461/movie/patricio662/paez663/235695.mkv
 #EXTINF:-1 tvg-logo="https://www.mubis.es/media/movies/1949/49341/contacto-sangriento-original.jpg" group-title="General",Contacto Sangriento (1988)
 http://fivetv.org:25461/movie/patricio662/paez663/235747.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fuego_cruzado-157159091-large.jpg" group-title="General",Fuego Cruzado (2012)
