@@ -603,14 +603,8 @@ http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268615.mp4
 http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268716.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Imparable_La_historia_de_Anthony_Robles-494329093-large.jpg" group-title="General",Imparable: La historia de Antony Robles (2024)
 http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268772.mp4
-#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2014/11/404994-critica-interstellar-nueva-pelicula-ciencia-ficcion-nolan.jpg?tf=3840x" group-title="General",Interestelar 
-http://ultrapremium.cloud:8080/movie/33039929/pp6062023/268662.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nick_HD.png/640px-Nick_HD.png" group-title="General",NICKELEDEON HD
-http://lalechuza.top:80/Rg5VVADYEw/meH7mn2dX6/26530
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zylvCqNTAiQ/sddefault.jpg" group-title="General",RESPIRA (2024)
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17521.mkv
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-iEag4hzdVITsl9Pp-r0ENKw-t500x500.jpg" group-title="General",Sniper La última resistencia 
-http://lalechuza.top:80/movie/Rg5VVADYEw/meH7mn2dX6/131063.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/1bd5dbeb3e9df4b2d614de05b4799f37b0152d00cb73746085c9be53c7815b9a.png" group-title="General",COLOMBIANA 
 http://fastream.xyz:8080/movie/bgivon22filo/tvvenegas22/268649.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMqSyxQaM1TG-Z0yOmqT92eB4SwRtON96o8g&s" group-title="General",METRALLA
