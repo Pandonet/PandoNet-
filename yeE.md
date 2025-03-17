@@ -522,7 +522,7 @@ http://fivetv.org:25461/movie/patricio662/paez663/256883.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51wqC0kHFpL._AC_UF894,1000_QL80_.jpg" group-title="General",Romeo debe Morir (2000)
 http://fivetv.org:25461/movie/patricio662/paez663/256898.mp4
 #EXTINF:-1 tvg-logo="https://www.cinecutre.com/wp-content/uploads/2020/04/475148_530881073624519_930203335_o-1024x471.jpg" group-title="General",EL HOMBRE DE ACERO (2013)
-http://fivetv.org:25461/movie/patricio662/paez663/288289.mp4
+http://tvpremiund.ddns.me:2082/movie/ROBERTOFIERRO/J5xYCry8aAWC/373.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YttQUY-EWo8/sddefault.jpg" group-title="General",Mujer Maravilla (2017)
 http://tvpremiund.ddns.me:2082/movie/ROBERTOFIERRO/J5xYCry8aAWC/2111.mp4
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/eu1GFdJBBbDC6mTiwPcJ5Gjf8aV48dOI70no9kJKUhgprcS5mV9XqV-YsjXDYfAodkjmdKS-jrbnL1a61A" group-title="General",Mujer Maravilla 1984 (2020)
