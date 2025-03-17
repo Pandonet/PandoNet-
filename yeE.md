@@ -36,7 +36,7 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767503
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HphN1fM/14f9e0e692e37453a4a9d05a2302609f.jpg" group-title="General",TIGO SPORT
 http://tvpremiund.ddns.me:2082/live/ROBERTOFIERRO/J5xYCry8aAWC/3123.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HphN1fM/14f9e0e692e37453a4a9d05a2302609f.jpg" group-title="General",Tigo SPORT 3 (Solo Eventos)
-http://moontools.me:8080/SuleikaA69/cLHuZKHQn3p7/108201
+http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1220636
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhYcVI9f3b-OGhn5Hz4ycBNAk9ETV0MBpnpg&s" group-title="General",FTV SC HD
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1321623
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8eeTTsj7IeMvk5bEkNa2av7FpwNdB6M7cg&s" group-title="General",PTV HD 
