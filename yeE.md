@@ -611,6 +611,56 @@ http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/16965.mkv
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17330.mkv
 #EXTINF:-1 tvg-logo="https://www.mubis.es/media/articles/33597/329274/primeros-datos-de-su-ultimo-combate-en-blu-ray-original.jpg" group-title="General",SU ÚLTIMO COMBATE (2024)
 http://tadeotv1.guiritv.xyz:8080/movie/3zwpO1hZjd/OL3sVM8cNu/17331.mkv
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png" group-title="General",MOVISTAR ACCIÓN 
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115809
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/007/688/855/non_2x/tv-logo-free-vector.jpg" group-title="General",ALQUILER 1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115824
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.B7LgOtHbdvTf3biM1x3JCwAAAA?pid=ImgDet&w=159&h=238&c=7" group-title="General",SUJO HIJO DE SICARIO(2024)
+https://videos.gia.tv/giatv/movies/playlist/209235/Sujo__Hijo_de_sicario_2024_____Mega1080p.mp4
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/272385.png" group-title="General",UN ROBO DE PRIMERA CLASE
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/d7eac1b9-2a9b-4df4-853d-0c3cd5167574.mp4
+#EXTINF:-1 tvg-logo="https://queretarockmusic.com/wp-content/uploads/2024/11/Captura-de-pantalla-2024-11-02-a-las-12.49.22%E2%80%AFp.m.png" group-title="General",LA COCINA
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/d77eb2d8-4ca8-4d07-8f65-fd06d47c77cc.mp4
+#EXTINF:-1 tvg-logo="https://multicinestenerife.com/wp-content/uploads/2024/05/slider-mision-hostil.png" group-title="General",Misión hostil 
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/a7135643-66fa-4946-a757-179740c7a0a6.mp4
+#EXTINF:-1 tvg-logo="https://josueralvarez.com/wp-content/uploads/2021/11/7p.jpg" group-title="General",7 PRISIONEROS
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/959dcd42-6286-4b3b-809a-3abcbd31067f.mp4
+#EXTINF:-1 tvg-logo="https://media.filmelier.com/tit/7uleR1/poster/los-reyes-de-la-estafa_bDmiYDE.jpeg" group-title="General",LOS REYES DE LA ESTAFA
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/fab4124e-83be-4af7-90d8-8cde1cb1254b.mp4
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/26/19/12/3037508.png" group-title="General",MÁS LOCO QUE UNA CABRA 
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/3a3c5d5a-a92d-4c06-bc9a-a53603f65244.mp4
+#EXTINF:-1 tvg-logo="https://media.filmelier.com/tit/SXSKLN/poster/no-todos-pudimos-madurar_FKj4iqE.jpeg" group-title="General",No todos pudimos madurar 
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/ca2490c6-0975-4f6a-a3fb-dd30d4732ff3.mp4
+#EXTINF:-1 tvg-logo="https://media.c5n.com/p/1a12c40628c14be1c782700dd014d4be/adjuntos/326/imagenes/000/312/0000312697/1200x675/smart/el-centinela.png" group-title="General",CENTINELA 
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/7b06b54c-a939-420c-b6f6-56e0de5cc4da.mp4
+#EXTINF:-1 tvg-logo="https://media.filmelier.com/tit/rWnFdc/poster/perros-de-guerra_DblXyIg.jpeg" group-title="General",PERROS DE GUERRA 
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/8b456c23-edfb-4a60-9a12-ad5ef7de2ab4.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/0f608f69dcd4e1c24621da9f16d8276c51c9621e7824d7700f7c8f52c45e1bc0.jpg" group-title="General",El ASESINO DEL CALENDARIO 
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/d9e0a187-a249-4dec-8c45-182eed7d0dc9.mp4
+#EXTINF:-1 tvg-logo="https://presslatam.cl/wp-content/uploads/2023/12/image2-1.png" group-title="General",LA  ÚLTIMA RESISTENCIA 
+http://cincotv.org:25461/movie/xavier2501/xlara9675/321997.mkv
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EMu_vfu7dcG09pYAGOscNDRYUYtJKO6vSW_943Mw2BZ5FEy7HuASvd59IUuvkexYpaTRac1vLzOGeY6dTJw" group-title="General",CONTRA ATAQUE 
+http://cincotv.org:25461/movie/xavier2501/xlara9675/324036.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8c0a978081fc60782b2bc4c7a2c2dcfd9432cac2de44d4fa4786122e9ce3b70d.jpg" group-title="General",LA VENGANZA DE LA LLORONA
+http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/e9d15860-adba-457b-a10c-9d47a1e7af48.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1fmk8HF/images.jpg" group-title="General",ESTADO ELECTRICO
+https://videos.gia.tv/giatv/movies/playlist/209235/Estado_el__ctrico_2025_.mp4
+#EXTINF:-1 tvg-logo="https://images.fandango.com/ImageRenderer/820/0/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/238220/Armor_POSTER_Date.jpg" group-title="General",ARMOR
+http://170.0.92.152/cloud_1/Blindado.Sin.salida.2024.720.lat.mp4
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2xC0hIlp9LkFo5Iq47HJGKhItqoKq-L8HkcfmPQWpK4GKkcJUYbXbgJVmEM3HcO0CUY7cKCG4GjFo0_-51a-a4hssiivXXtVtfA8r6xLymZUqDzPPqBk8QOJdNIW8bvnGsblThBOTzmattAZti9qqRJHaUF2vcMMgzyHRw7vfbTZwOHVh7-BisDTvkg/s16000/La%20clave%20del%20problema%20(2023).jpg" group-title="General",The  Locksmith 
+http://170.0.92.152/cloud_2/La.clave.del.problema.2023.720.lat.mp4
+#EXTINF:-1 tvg-logo="https://img.peliplat.com/api/resize/v1?imagePath=peliplat/article/20250221/e81a52f85fd1ac63732f42b5f77e2516.png&source=s3-peliplat&mode=FILL&width=480&height=270&limit=false&c=1.jpg" group-title="General",BETTER MAN
+http://170.0.92.152/cloud_2/Better.Man.La.historia.de.Robbie.Williams.2024.720.lat.mp4
+#EXTINF:-1 tvg-logo="https://cms.blavity.com/wp-content/uploads/2023/07/Webp.net-resizeimage-2019-09-24T150931.269-compress.png" group-title="General",ISIDE MAN
+http://170.0.92.152/cloud_3/Inside.Man.Most.Wanted.2019.720.lat.mp4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/live-action/images/e/e4/Inside_Man_2006_DVD_Cover.PNG" group-title="General",PLAN OCULTO 
+http://170.0.92.152/cloud_2/Inside.Man.2006.720.lat.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YR_giaE_KYA/maxresdefault.jpg" group-title="General",NOCHE DE BODAS
+http://170.0.92.152/cloud_2/Noche.de.bodas.2024.720.lat.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",TOP 40 LIVE
+http://panelguys.top:8080/sY6kSEQnpF/YciGw9rYxJ/124058
+#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ7qiOpgkMCxIOU3RhdGlvblByb2ZpbGUYgIDQ9rSQjwgMogEEemVubw/images/logo?keep=w&resize=350x350" group-title="General",PANDONETTVRADIO
+https://stream-176.zeno.fm/rgp3azdakg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyZ3AzYXpkYWtnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlWWXFYbVkxUUhLS0pZbU9acXFsc3ciLCJpYXQiOjE3NDIxNjk0NzksImV4cCI6MTc0MjE2OTUzOX0.4WD_eVWHb_qParVIj60UFWQ6VTsx52hvSCaHjxbwZw8
 #EXTINF:-1 tvg-id="" tvg-name="El Colectivo" tvg-logo="https://image.tmdb.org/t/p/w400/tZdaFhAOONH0yg3phMvytchS7m6.jpg" group-title="🎬 ESTRENOS 2024 ▶️",El Colectivo
 http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/ade24264-7f16-4dcb-b95f-8df8d625e2ad.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dark Match" tvg-logo="https://image.tmdb.org/t/p/w400/6E6fBED3ix7FmrWUWZdeYG4vqK8.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Dark Match
