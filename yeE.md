@@ -524,7 +524,7 @@ http://fivetv.org:25461/movie/patricio662/paez663/256898.mp4
 #EXTINF:-1 tvg-logo="https://www.cinecutre.com/wp-content/uploads/2020/04/475148_530881073624519_930203335_o-1024x471.jpg" group-title="General",EL HOMBRE DE ACERO (2013)
 http://fivetv.org:25461/movie/patricio662/paez663/288289.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YttQUY-EWo8/sddefault.jpg" group-title="General",Mujer Maravilla (2017)
-http://tvpremiund.ddns.me:2082/movie/ROBERTOFIERRO/J5xYCry8aAWC/7084.mkv
+http://62.210.113.90:8080/movie/ROBERTOFIERRO/J5xYCry8aAWC/2111.mp4?token=HURcWERbRFwSCwdTBwRRUlZUUQNRAgxVU1RWWAUNDQRXAAABDlYCVFMaGUQSRRFRUwlqW1dDDwFQBwEVEkBKVRQ5XV0VCURXBQ8NUVETTxZGDVhXEVsEBFUEAQAABg0ISkREUFMRXEQICgNXQx1BUUoQUEBdAFlsBVNGUFNQGwpERBgbWF05AlVVVAgFE1kWAkYZEFoSRRFbWEVVXBkbUg8SRlhDVkRcEgoHX1cTTxZRC0BcRxNMEVsUcnYSGRtVHhJRV0RaCQgSAhcLEQVBGBANRm1BBEZHE1NRVFVHGwpEVhYVFV4HHm9bWggPVABAWwtbQRFbFwBDGhJUX1tQRAkUa0leV0RcXk1ZChw=
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/eu1GFdJBBbDC6mTiwPcJ5Gjf8aV48dOI70no9kJKUhgprcS5mV9XqV-YsjXDYfAodkjmdKS-jrbnL1a61A" group-title="General",Mujer Maravilla 1984 (2020)
 http://fivetv.org:25461/movie/patricio662/paez663/288295.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc7-AT5WoCK1Wf8uURN5I1wUMBmGcvsn8eEw&s" group-title="General",Shazam (2019)
