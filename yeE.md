@@ -43,8 +43,6 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1321623
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767508
 #EXTINF:-1 tvg-logo="https://www.noticiasfides.com/images/news/2013/12/resultados-de-la-liga-profesional-del-futbol-boliviano-_19516.jpg" group-title="General",LigaB1liviana
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1530797
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiX3wojXYOEfWXWoF5QejHxZ3EDjLYIM4aWA&s" group-title="General",EGPP 360
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1767516
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaogUkbqxDkDwYmc08VJFdmCxYTQdPCzMDFQ&s" group-title="General",CINE PREMIUM 
 http://190.13.81.218:18000/play/a007
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="General",Nick junior  HD
@@ -70,7 +68,7 @@ http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/81693
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/noticias-caracol7623.logowik.com.webp" group-title="General",Caracol tv 
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/23463
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_lifetime_m.png" group-title="General", Life Time SD
-http://ultrapremium.cloud:8080/33039929/pp6062023/59406
+http://tvpremiund.ddns.me:2082/ROBERTOFIERRO/J5xYCry8aAWC/2443
 #EXTINF:-1 tvg-logo="https://prensaescenario.files.wordpress.com/2019/08/image005-12.jpg" group-title="General",El Gourmet SD
 http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/81659
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="General",TELEMUNDO FULL HD
@@ -526,7 +524,7 @@ http://fivetv.org:25461/movie/patricio662/paez663/256898.mp4
 #EXTINF:-1 tvg-logo="https://www.cinecutre.com/wp-content/uploads/2020/04/475148_530881073624519_930203335_o-1024x471.jpg" group-title="General",EL HOMBRE DE ACERO (2013)
 http://fivetv.org:25461/movie/patricio662/paez663/288289.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YttQUY-EWo8/sddefault.jpg" group-title="General",Mujer Maravilla (2017)
-http://416streams.sytes.net:3050/zdmarie1954@gmail.com/B7B5UCmjaE/611067
+http://tvpremiund.ddns.me:2082/movie/ROBERTOFIERRO/J5xYCry8aAWC/7084.mkv
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/eu1GFdJBBbDC6mTiwPcJ5Gjf8aV48dOI70no9kJKUhgprcS5mV9XqV-YsjXDYfAodkjmdKS-jrbnL1a61A" group-title="General",Mujer Maravilla 1984 (2020)
 http://fivetv.org:25461/movie/patricio662/paez663/288295.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc7-AT5WoCK1Wf8uURN5I1wUMBmGcvsn8eEw&s" group-title="General",Shazam (2019)
