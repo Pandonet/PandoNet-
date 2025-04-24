@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTMUSIC
-https://stream.gia.tv/giatvplayout7/giatv-209235/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/twh0GgvR/Utool-20250401-224313622.png" group-title="General",KIKE NAVALA PERIODISTA 
-https://stream.gia.tv/giatvplayout7/giatv-209405/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://anp-bolivia.com/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="General",TVU PANDO
-https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfkuIX0dgBn4IW9yciOQFHKI/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/pandonettv4201/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/twh0GgvR/Utool-20250401-224313622.png" group-title="General",KIKE NAVALA PERIODISTA 
+https://stream.gia.tv/giatvplayout7/giatv-209405/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTMUSIC
+https://stream.gia.tv/giatvplayout7/giatv-209235/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://anp-bolivia.com/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="General",TVU PANDO
+https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfkuIX0dgBn4IW9yciOQFHKI/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL HD
 https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfkf1_evTE4DzvuW-kcto0gc/ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdQs7bf/Bolivision.png" group-title="General",BOLIVISION
@@ -18,7 +18,7 @@ https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfjwUFHf2jOVg27rGpx8mS28/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTKLnNTBtjhb64a-hY7OnezpCP0rMiuILb9R_hVdF9XqhdxsVRs4WmeQJ5o0W1rYHFNw&usqp=CAU" group-title="General",RED UNO
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtv.bo/wp-content/uploads/2023/07/cropped-LOGO-DTV.png" group-title="General",DTV
-https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfh17GbOe4uwezqgpcrvK1XY/ts
+http://170.39.192.130:2095/56953443259play/260923play/313511
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVV9z2uLBmJv4UzM85_RGbnlYnO45T0NMZ7Q&s" group-title="General",GIGAVISION
 https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfpC1E5UaQCzRADbbOUe6X34/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="General",PAT
@@ -32,7 +32,7 @@ https://stream.gia.tv/giatvplayout7/giatv-208170/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="General",BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",UPEA TELEVISIÓN 
-https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfnZ5xvrML0QgdzMb9NcU_cQ/ts
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/proba123/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO sports solo eventos
 https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfkg2pkegRmoKaenQAe84eaQ/ts
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO sport 4
@@ -42,7 +42,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/campeonunivers/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO SPORT SOLO EVENTOS
 https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfltJosvExqAgcjLMdnt4c0g/ts
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",TIGO SPORT BOLIVIA 
-http://tvpremiund.ddns.me:2082/live/ROBERTOFIERRO/J5xYCry8aAWC/3123.m3u8
+https://micaplay.net:8443/play/ars1FL3qs04RBXHEAoq7ltFnWxssMSjaSybmKhVU0cw/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpwgPRmFPEd0MTVow6Q8guSyjyOtrDa8MH-g&s" group-title="General",Disney junior HD
 https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJfg70KnfegtatUc_YuOwVLpc/ts
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="General",Nick junior  HD
@@ -56,7 +56,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/800122luna/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/company/2121-205_company_import.png" group-title="General",PANAMERICANA TV
 http://416streams.sytes.net:3050/zdmarie1954@gmail.com/B7B5UCmjaE/574490
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="General",AMERICA TV SD
-https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJftxxVjj5kC7ywD95LgTmhKk/ts
+http://170.39.192.130:2095/56953443259play/260923play/316446
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="General",AMERICA TV HD
 https://micaplay.net:8443/play/EzaeYPjDhNnMqfOAt3fJftVQ5ISGQLwyaHmHjxXMxMg/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="General",CANAL SPORT 
@@ -259,53 +259,3 @@ https://micaplay.net:8443/play/-B9dABQr0IYtAUAORYh6HZisriHURVGTJQBwtz6oQ0Jiv34K7
 https://appstable.xyz:443/movie/babilon9/agosto10/272137.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Promesas del corazón (2025)
 http://2025.odin55.xyz:8080/movie/a9Mvr373bL/RWFp2eGAVD/18132.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Colectivo" tvg-logo="https://image.tmdb.org/t/p/w400/tZdaFhAOONH0yg3phMvytchS7m6.jpg" group-title="🎬 ESTRENOS 2024 ▶️",El Colectivo
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/ade24264-7f16-4dcb-b95f-8df8d625e2ad.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dark Match" tvg-logo="https://image.tmdb.org/t/p/w400/6E6fBED3ix7FmrWUWZdeYG4vqK8.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Dark Match
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/d440936f-43c6-4c6e-9972-3f18cf9841b1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dalia y el libro rojo" tvg-logo="https://image.tmdb.org/t/p/w400/oyGyAQZOj7NzyLxCZX7FHKYELP1.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Dalia y el libro rojo
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/37a35a38-7b16-4e05-9b64-9f1be50efdff.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bajo Custodia" tvg-logo="https://image.tmdb.org/t/p/w400/76Yt2zwCjzMruHis18wWBE9J6eh.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Bajo Custodia
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/07651374-353f-44d5-8533-b9ade7a314b7.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Esperando la noche" tvg-logo="https://image.tmdb.org/t/p/w400/7vsZi00TVXkWBqqDhSAMEhlxJSL.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Esperando la noche
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/09851436-4173-41f0-873f-cbea1ddff1a2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La clave del problema" tvg-logo="https://image.tmdb.org/t/p/w400/437stNTlbccSmNeAKGtO617ryYJ.jpg" group-title="🎬 ESTRENOS 2024 ▶️",La clave del problema
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/1ecbc707-a310-4fc7-a920-1b128eed62d7.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La maldición de Cenicienta" tvg-logo="https://image.tmdb.org/t/p/w400/SFewWt1tXEqGq08oZqH1q78gzM.jpg" group-title="🎬 ESTRENOS 2024 ▶️",La maldición de Cenicienta
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/11b25fbe-200d-4041-a5d7-2a8a34a9c1c1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Novia a medida" tvg-logo="https://image.tmdb.org/t/p/w400/dRaHoBWFWG23EAEKPQYo1GBcpP9.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Novia a medida
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/b6447d43-315a-467e-81b0-f3d8e023a304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Melodía del mal" tvg-logo="https://image.tmdb.org/t/p/w400/8lrevAFLg3Sdn6E76cMSeBg3NJh.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Melodía del mal
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/6d4becfd-4165-43b0-9899-be3f7709e477.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shark Girl" tvg-logo="https://image.tmdb.org/t/p/w400/o9TpXnGskHRQcHtX4NYndP6o0zA.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Shark Girl
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/7186c59d-a28c-4cdf-b441-bdcfeacb61d8.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tormenta ácida" tvg-logo="https://image.tmdb.org/t/p/w400/wF7uDFO5KSstsSKJfIOqcUoknn2.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Tormenta ácida
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/8b8851fa-2308-4fc4-a802-2eb99a487811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escapada de espanto" tvg-logo="https://image.tmdb.org/t/p/w400/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg" group-title="🎬 ESTRENOS 2025 🔥",Escapada de espanto
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/0098a03c-0949-4862-9d5f-19fa0fd9fed7.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lee Miller: Retratos de Guerra" tvg-logo="https://image.tmdb.org/t/p/w400/nmm7lLqF5mAzn3OvO7qJwFGbi2v.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Lee Miller: Retratos de Guerra
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/f3ab9a30-3b56-4501-9c17-11f72d85a605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Estado eléctrico" tvg-logo="https://image.tmdb.org/t/p/w400/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg" group-title="🎬 ESTRENOS 2025 🔥",Estado eléctrico
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/01849e82-fc0f-4f9b-840f-70f787c0c2e8.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Contadora De Películas" tvg-logo="https://image.tmdb.org/t/p/w400/a5OVaZg2u7x0kDTu3HUv0A5MMch.jpg" group-title="🎬 ESTRENOS 2023 ▶️",La Contadora De Películas
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/e704e207-1b42-4f99-b69a-c242a80906f9.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escapada de espanto" tvg-logo="https://image.tmdb.org/t/p/w400/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg" group-title="🎬 ESTRENOS 2025 🔥",Escapada de espanto
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/7d926d3d-80c6-4146-8ce8-57f41dcc726c.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Estado eléctrico" tvg-logo="https://image.tmdb.org/t/p/w400/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg" group-title="🎬 ESTRENOS 2025 🔥",Estado eléctrico
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/418c125b-4406-419a-9ec6-5d8e0cef000e.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Triple frontera" tvg-logo="https://image.tmdb.org/t/p/w400/sYWfXTIfuAUr9ZmgYnQc5sjz26j.jpg" group-title="🎬 SOLICITADOS ▶️",Triple frontera
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/2c6d2dfc-1128-457f-a068-30d0681e149b.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rambo II - La misión" tvg-logo="https://image.tmdb.org/t/p/w400/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg" group-title="🎬 SOLICITADOS ▶️",Rambo II - La misión
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/64c9d04a-360b-4688-a167-6509e27487a2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Finch" tvg-logo="https://image.tmdb.org/t/p/w400/niBKaDmBtZVJTN1ATpHlyrFEa71.jpg" group-title="🎬 SOLICITADOS ▶️",Finch
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/26b78692-8514-4d5c-91ab-7e83cb3a4f35.mp4
-#EXTINF:-1 tvg-id="" tvg-name="María, ¡Me muero!" tvg-logo="https://image.tmdb.org/t/p/w400/zRjj0HjUL1wXuSqV0ctKn5ObJu5.jpg" group-title="🎬 ESTRENOS 2025 🔥",María, ¡Me muero!
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/1ad2bd0e-acd5-4749-9f38-794934db6710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blindado: Sin Salida" tvg-logo="https://image.tmdb.org/t/p/w400/teKwEThO6MEJQ3IZKaOHAky6zvq.jpg" group-title="🎬 ESTRENOS 2024 ▶️",Blindado: Sin Salida
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/3303c782-480e-4233-85c1-e395d66936fc.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lotería Letal" tvg-logo="https://image.tmdb.org/t/p/w400/5nvUBIb3dWvIxIcigsKVfUuy8pE.jpg" group-title="🎬 ESTRENOS 2023 ▶️",Lotería Letal
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/4fa42a4b-3612-4320-8f76-ae997d6c5bb7.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Novocaine sin dolor | HDTS 1win" tvg-logo="https://image.tmdb.org/t/p/w400/sPauBC638fpNHj1Bl3Qto8uWO93.jpg" group-title="🎬 VOD CAM ▶️",Novocaine sin dolor | HDTS 1win
-http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/6f1167be-d766-4e72-a2bc-1d98eade0207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lo Que Diga el Corazón, Niche S1 E1" tvg-logo="s:1:/images/d65bbabc700a42b7bb53ca3aac97f095.jpg" group-title="* SERIES DE TV⏯️ *",Lo Que Diga el Corazón, Niche S1 E1
-http://mundo2.pro:80/series/pe4700mary/Bm2N6Um9HH4p/ba3f0acf-2e13-4aa9-b83a-6d321c6c337f.mp4
