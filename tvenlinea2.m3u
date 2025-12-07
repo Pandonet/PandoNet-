@@ -7,10 +7,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-209405/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/pandonettv4201/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",PANDONETTV
 http://tv.zapping.life:8080/chgatti/bH6bxCgfcK/95607
-#EXTINF:-1 tvg-logo="https://live-stream.iblups.com/video/b70fde61cfad96bb7f8ef170980b7a5df2621c8f.m3u8" group-title="General",TVU PANDO 
-https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JRxgj8yw/IMG-20250528-WA0122.jpg" group-title="General",CADENA A
-http://imaxplay.net:8880//live/VswT21dyUt/Ttvd3EWJBC/276178.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDZJFcK1/Screenshot-20250528-125729-com-facebook-katana-Immersive-Activity-edit-340469869794494.jpg" group-title="General",TVU 
+https://short.do/sQODGi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRxgj8yw/IMG-20250528-WA0122.jpg" group-title="General",CANAL 15 SPC
+https://live20.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r6LWLBp/images.jpg" group-title="General",MANURIPI TV
 https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL HD
@@ -34,7 +34,7 @@ http://imaxplay.net:8880//live/VswT21dyUt/Ttvd3EWJBC/501861.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="General",PAT
 https://www.redpat.tv/proxylpz/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="General",BOLIVIA TV
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(uHiVFEai2Jl5TPOL5jtzLTR17Q3xei4XnjfdlWeF468mD18YoMZqe7O6QCdtKjTQiPpuXnJfpYcTujAMgwPgTH2UP6pkTbgWU04jy4iyYg5nGP_rW19MZu42GbbiPnhB)/cloud/3/x9nzqpo/d/live-720.m3u8#cell=lcf2-eu-north-1b
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9UOF0FHNKGP8p--i0wbdxRSW4BrjSk-mTw&s" group-title="General",Entel TV solo eventos 
 http://tvpremiund.ddns.me:2082/MilagrosFonseca/2Z8DZ4cpQjBe/81522
 #EXTINF:-1 tvg-logo="https://f10.tv.bo/wp-content/uploads/2024/06/351466087_3521344231429745_2162507638893969516_n-1.jpg" group-title="General",F10
@@ -143,335 +143,233 @@ http://tv.proyectox.vip:8080/movie/ibarrauru2019/PvwxELbOxu/124745.mkv
 http://tv.proyectox.vip:8080/movie/ibarrauru2019/PvwxELbOxu/126508.mkv
 #EXTINF:-1 tvg-logo="https://presslatam.cl/wp-content/uploads/2023/12/image2-1.png" group-title="General",PRÓFUGO POR ACCIDENTE 
 http://tv.proyectox.vip:8080/movie/ibarrauru2019/PvwxELbOxu/124190.mkv
-
-#EXTINF:-1 group-title="Acción", La princesa perdida
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8c0a978081fc60782b2bc4c7a2c2dcfd9432cac2de44d4fa4786122e9ce3b70d.jpg" group-title="General",LA PRINCESA PERDIDA
 http://45.225.68.1:8532/cloud_4/La.princesa.perdida.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Furioza 2
+#EXTINF:-1 tvg-logo="https://images.fandango.com/ImageRenderer/820/0/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/238220/Armor_POSTER_Date.jpg" group-title="General",FURIOZA 2
 http://45.225.68.1:8532/cloud_1/Furioza.2.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", War 2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2xC0hIlp9LkFo5Iq47HJGKhItqoKq-L8HkcfmPQWpK4GKkcJUYbXbgJVmEM3HcO0CUY7cKCG4GjFo0_-51a-a4hssiivXXtVtfA8r6xLymZUqDzPPqBk8QOJdNIW8bvnGsblThBOTzmattAZti9qqRJHaUF2vcMMgzyHRw7vfbTZwOHVh7-BisDTvkg/s16000/La%20clave%20del%20problema%20(2023).jpg" group-title="General",WAR 2
 http://45.225.68.1:8532/cloud_1/War.2.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Batman Azteca Choque de imperios
+#EXTINF:-1 tvg-logo="https://img.peliplat.com/api/resize/v1?imagePath=peliplat/article/20250221/e81a52f85fd1ac63732f42b5f77e2516.png&source=s3-peliplat&mode=FILL&width=480&height=270&limit=false&c=1.jpg" group-title="General",Batman Azteca Choque de imperios
 http://45.225.68.1:8532/cloud_3/Batman.Azteca.Choque.de.imperios.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Velocidad salvaje
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/live-action/images/e/e4/Inside_Man_2006_DVD_Cover.PNG" group-title="General",Velocidad salvaje
 http://45.225.68.1:8532/cloud_3/Velocidad.salvaje.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", La banda de ladrones de oro
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YR_giaE_KYA/maxresdefault.jpg" group-title="General",La banda de ladrones de oro
 http://45.225.68.1:8532/cloud_1/La.banda.de.ladrones.de.oro.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Americana
+#EXTINF:-1 tvg-logo="https://www.accioncine.es/wp-content/uploads/2025/01/juego-de-ladrones.jpg" group-title="General",Americana
 http://45.225.68.1:8532/cloud_2/Americana.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Nadie 2
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_hilo_rojo-604418174-large.jpg" group-title="General",NADIE 2 (2025)
 http://45.225.68.1:8532/cloud_2/Nadie.2.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Y donde esta el policia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUEaC1eTFFRAF-__eKwEXE_JpCQ5UdNu08w&s" group-title="General",Y donde esta el policia
 http://45.225.68.1:8532/cloud_4/Y.donde.esta.el.policia.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", El ultimo encargo
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmJjZjBiNmYtMzM2NS00YTFiLWJiYTQtMmEwMGNiZmEzYjQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="General",EL ULTIMO ENCARGO(2025) 
 http://45.225.68.1:8532/cloud_4/El.ultimo.encargo.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Osiris
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA3Mjc0NTEtMjYyMS00OWNmLTg3MmYtN2E3MDNkMWQ4NjI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="General",OSIRIS (2025) 
 http://45.225.68.1:8532/cloud_4/Osiris.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Se lo que hicieron el verano pasado
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/all/movie/backdrops/2025/2/movie-1428438/w1280/5os9nhyPwnY1NbUU5raz8vqxKDv.jpg" group-title="General",Se lo que hicieron el verano pasado
 http://45.225.68.1:8532/cloud_1/Se.lo.que.hicieron.el.verano.pasado.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Almost Cops
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DvnHMQDWRPw/maxresdefault.jpg" group-title="General",Almost Cops
 http://45.225.68.1:8532/cloud_4/Almost.Cops.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Superman
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Nn8o61DOAFw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBvPz8uILhxSMrBxbyiTrbdjwxGXw" group-title="General",SUPERMAN 
 http://45.225.68.1:8532/cloud_3/Superman.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Ziam
+#EXTINF:-1 tvg-logo="https://dtv.bo/wp-content/uploads/2023/07/cropped-LOGO-DTV.png" group-title="General",Ziam
 http://45.225.68.1:8532/cloud_4/Ziam.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Asesinos de aliens del espacio sideral
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/297/777/png-transparent-romance-film-logo-television-channel-romantic-love-miscellaneous-television.png" group-title="General",Asesinos de aliens del espacio sideral
 http://45.225.68.1:8532/cloud_1/Asesinos.de.aliens.del.espacio.sideral.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Jurassic World Renace
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/321430214/s718/el-escuadron-del-diablo.jpg" group-title="General",Jurassic World Renace
 http://45.225.68.1:8532/cloud_4/Jurassic.World.Renace.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", La vieja guardia 2
+#EXTINF:-1 tvg-logo="https://mega-mkv.com/wp-content/uploads/2025/02/Furia-En-Dos-Ruedas-2023.jpg" group-title="General",La vieja guardia 2
 http://45.225.68.1:8532/cloud_4/La.vieja.guardia.2.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", F1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c53b7c0b4ba10099c8f9a63a1832d2cd09859c4806aa590764d8402620c5e021.jpg" group-title="General",F1
 http://45.225.68.1:8532/cloud_2/F1.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", M3GAN 2.0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/n5B9LgcY2B0/maxresdefault.jpg" group-title="General",MEGAN 2.0
 http://45.225.68.1:8532/cloud_3/M3GAN.2.0.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Jefes de estado
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/af6ab1ef7decb2ca197c35243e48c4fc8db0ebd84fe0eec8d118ec7e1300ca94.png" group-title="General",JEFES DE ESTADOS
 http://45.225.68.1:8532/cloud_1/Jefes.de.estado.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Las guerreras k pop
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQA9DaRH9uO1-Xk0torTLtcUX0BusFcqAI5Y8eYf0okA8n9wOSiy4JJ-QvWKziL8HvfLYNfeHVVw5jBbvtRyccgjuFYkAE-FI2q7-hyBy5NSUQ4jQvVHygYWARAnYAz2w3eO2vjWn4SV6FSxSXbPxOzK061supVI-WkwG8ObI0_cM3UgKdCkhA7FL_0Q/w640-h360/vlcsnap-2025-03-06-11h46m00s827.png" group-title="General",Las guerreras k pop
 http://45.225.68.1:8532/cloud_3/Las.guerreras.k.pop.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Duro de casar
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Q5IiPM_1lkoZI5fuZzy6w83JtYKzO-1eLB3GM0HcIEdRBSpOEVgM301fgfF6YUwK2LkphMHso9YoOST1y2W8RPyUGh3vUCG6FVUkTlgzME_RXWlOLnyEeCDWKmCeILMlvFLEXfYsosm9NIufP8jwwrUM-7rBopyZ-PfZ4V-gX-inL1dX_nAmxHaTawk/s320/AMOR%20EXPLOSIVO_LOVE%20HURTS_COVER_DVD.jpg" group-title="General",Duro de casar
 http://45.225.68.1:8532/cloud_1/Duro.de.casar.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Como entrenar a tu dragon
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/W3aTtR2wmDg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhKpHNgtGTv4LGFuckaBlhYwwVHg" group-title="General",COMO ENTRENAR A MI DRAGON
 http://45.225.68.1:8532/cloud_4/Como.entrenar.a.tu.dragon.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Depredador Cazador de asesinos
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/abc9fb1816944e44793898de4db6a8280e3bd0737826baafb4c05ef1e10ab213._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_.png" group-title="General",Depredador Cazador de asesinos
 http://45.225.68.1:8532/cloud_3/Depredador.Cazador.de.asesinos.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", K.O
+#EXTINF:-1 tvg-logo="https://www.mundiario.com/asset/thumbnail,1280,720,center,center/media/cineseries/images/2022/05/07/2022050719491356314.png" group-title="General",KO
 http://45.225.68.1:8532/cloud_3/K.O.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Acto encubierto
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/4d/97/97248c2d45f6b5fa7bd200c821ee/bastion-36-la-historia-real-detras-de-la-pelicula-que-es-un-exito-y-arrasa-en-netflix.jpg" group-title="General",Acto encubierto
 http://45.225.68.1:8532/cloud_3/Acto.encubierto.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Acción", Bailarina
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/70f2526780f056cf497cf2308d80ed6f388f79453d68924d91f34b235741211e.jpg" group-title="General",BAILARINA
 http://45.225.68.1:8532/cloud_4/Bailarina.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", TRON Ares
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",TRON ARES
 http://45.225.68.1:8532/cloud_3/TRON.Ares.2025.DCP.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Camina o muere
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CAMNIA O MUERE
 http://45.225.68.1:8532/cloud_2/Camina.o.muere.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Los 4 Fantasticos Primeros pasos
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Los 4 Fantasticos Primeros pasos
 http://45.225.68.1:8532/cloud_4/Los.4.Fantasticos.Primeros.pasos.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", El muro negro
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P1W0g7G/418462893-884374087021844-4453603128248385175-n.jpg" group-title="General",TOP 40 LIVE
+http://panelguys.top:8080/sY6kSEQnpF/YciGw9rYxJ/124058
+#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ7qiOpgkMCxIOU3RhdGlvblByb2ZpbGUYgIDQ9rSQjwgMogEEemVubw/images/logo?keep=w&resize=350x350" group-title="General",PANDONETTVRADIO
+https://stream-176.zeno.fm/rgp3azdakg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyZ3AzYXpkYWtnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlWWXFYbVkxUUhLS0pZbU9acXFsc3ciLCJpYXQiOjE3NDIxNjk0NzksImV4cCI6MTc0MjE2OTUzOX0.4WD_eVWHb_qParVIj60UFWQ6VTsx52hvSCaHjxbwZw8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL MURO NEGRO
 http://45.225.68.1:8532/cloud_4/El.muro.negro.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Elio
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General", Elio
 http://45.225.68.1:8532/cloud_2/Elio.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Exterminio La evolucion
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Exterminio La evolucion
 http://45.225.68.1:8532/cloud_2/Exterminio.La.evolucion.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Nuestros tiempos
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General", Nuestros tiempos
 http://45.225.68.1:8532/cloud_4/Nuestros.tiempos.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Lo que le falta a esta estrella
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kdPIy68DMoomY0nncJ09yE3VJ7g.jpg" group-title="General",Lo que le falta a esta estrella
 http://45.225.68.1:8532/cloud_4/Lo.que.le.falta.a.esta.estrella.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Lilo y Stitch
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Lilo y Stitch
 http://45.225.68.1:8532/cloud_1/Lilo.y.Stitch.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Thunderbolts
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Thunderbolts
 http://45.225.68.1:8532/cloud_2/Thunderbolts.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Kaiju No 8 Mision de reconocimiento
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Kaiju No 8 Mision de reconocimiento
 http://45.225.68.1:8532/cloud_4/Kaiju.No.8.Mision.de.reconocimiento.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Ash
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Ash
 http://45.225.68.1:8532/cloud_2/Ash.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Estado electrico
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ESTADO ELECTRICO
 http://45.225.68.1:8532/cloud_3/Estado.electrico.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Mickey 17
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",MICKEY (2025) 
 http://45.225.68.1:8532/cloud_1/Mickey.17.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", El abismo secreto
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL AABISMO SECRETO
 http://45.225.68.1:8532/cloud_2/El.abismo.secreto.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Capitan America Un nuevo mundo
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CAPITAN AMERICA UN NUEVO MUNDO
 http://45.225.68.1:8532/cloud_2/Capitan.America.Un.nuevo.mundo.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Compani era perfecta
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Compani era perfecta
 http://45.225.68.1:8532/cloud_2/Companiera.perfecta.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Henry Danger La pelicula
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Danger La pelicula
 http://45.225.68.1:8532/cloud_2/Henry.Danger.La.pelicula.2025.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Sonic 3 La pelicula
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",SONIC 3 LA PELICULA
 http://45.225.68.1:8532/cloud_2/Sonic.3.La.pelicula.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Utopia
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",UTOPIA
 http://45.225.68.1:8532/cloud_2/Utopia.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Y2K
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/AfwIqD0QFkKYBHQao78INWcoPSn.jpg" group-title="General",Y2K
 http://45.225.68.1:8532/cloud_1/Y2K.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Mas Alla de los Limites de la Muerte
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/vmw1FhbRFPDjkXevrhX6scxGJQO.jpg" group-title="General",Mas Alla de los Limites de la Muerte
 http://45.225.68.1:8532/cloud_1/Mas.Alla.de.los.Limites.de.la.Muerte.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Criaturas Linea de extincion
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" group-title="General",Criaturas Linea de extincion
 http://45.225.68.1:8532/cloud_2/Criaturas.Linea.de.extincion.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Dias futuros
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7EqXQpRpDLJA09ufah6Vsr487WW.jpg" group-title="General",Dias futuros
 http://45.225.68.1:8532/cloud_2/Dias.futuros.2022.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Corte en el tiempo
+#EXTINF:-1 tvg-logo="https://pelisen1080p.com/wp-content/uploads/2025/02/sting-arana-asesina-65011-poster-185x278.jpg" group-title="General",Corte en el tiempo
 https://cdn-2-bsas-arg.cinelatino.tv/cloud/Corte.en.el.tiempo.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Venom El ultimo baile
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wTlq1OKFekOR0ewNavniPK08M1M.jpg" group-title="General",VENOM EL ULTIMO BAILE
 http://45.225.68.1:8532/cloud_1/Venom.El.ultimo.baile.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Los Horrores de Caddo Lake
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nimnvsGwgJBPnsRrmdlIDi2Yhbn.jpg" group-title="General",Los Horrores de Caddo Lake
 http://45.225.68.1:8532/cloud_3/Los.Horrores.de.Caddo.Lake.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", El final de nuestros dias
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gtwN9R6q0Ki97eUczLMlBzASOeM.jpg" group-title="General",EL FINAL DE NUESTROS DIAS
 http://45.225.68.1:8532/cloud_1/El.final.de.nuestros.dias.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", El hoyo 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d4JTW4t5/Sticker-circular-15-a-os-moderno-acuarela-morado.png" group-title="General",15 AÑOS DANNA
+https://videos.gia.tv/giatv/movies/playlist/209235/CLIPS_DANA_MIS_15_A__OS.mp4
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General", CINE VIP 24/7 
+http://imaxplay.net:8880//live/VswT21dyUt/Ttvd3EWJBC/618051.ts
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL HOYO 2
 http://45.225.68.1:8532/cloud_2/El.hoyo.2.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Robot salvaje
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ROBOT SALVAJE 2
 http://45.225.68.1:8532/cloud_4/Robot.salvaje.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Transformers One
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Transformers One
 http://45.225.68.1:8532/cloud_4/Transformers.One.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", The Substance
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",The Substance
 http://45.225.68.1:8532/cloud_4/The.Substance.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Subservience
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Subservience
 http://45.225.68.1:8532/cloud_3/Subservience.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Alien Romulus
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Alien Romulus
 http://45.225.68.1:8532/cloud_3/Alien.Romulus.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Borderlands
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Borderlands
 http://45.225.68.1:8532/cloud_1/Borderlands.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", My Hero Academia Ahora es tu turno
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",My Hero Academia Ahora es tu turno
 http://45.225.68.1:8532/cloud_3/My.Hero.Academia.Ahora.es.tu.turno.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", The Day the Earth Blew Up A Looney Tunes Movie
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",The Day the Earth Blew Up A Looney Tunes Movie
 http://45.225.68.1:8532/cloud_2/The.Day.the.Earth.Blew.Up.A.Looney.Tunes.Movie.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Deadpool and Wolverine
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Deadpool and Wolverine
 http://45.225.68.1:8532/cloud_3/Deadpool.and.Wolverine.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Liga de la Justicia Crisis en Tierras Infinitas Parte 3
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Liga de la Justicia Crisis en Tierras Infinitas Parte 3
 http://45.225.68.1:8532/cloud_3/Liga.de.la.Justicia.Crisis.en.Tierras.Infinitas.Parte.3.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Distant
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Distant
 http://45.225.68.1:8532/cloud_1/Distant.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Uranus 2324 Siempre nos encontraremos
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General", Uranus 2324 Siempre nos encontraremos
 http://45.225.68.1:8532/cloud_2/Uranus.2324.Siempre.nos.encontraremos.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Un Lugar En Silencio Dia Uno
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General", Un Lugar En Silencio Dia Uno
 http://45.225.68.1:8532/cloud_3/Un.Lugar.En.Silencio.Dia.Uno.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Sobreviviendo
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General", Sobreviviendo
 http://45.225.68.1:8532/cloud_4/Sobreviviendo.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Ultraman El ascenso
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Ultraman El ascenso
 http://45.225.68.1:8532/cloud_1/Ultraman.El.ascenso.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Furiosa
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Furiosa
 http://45.225.68.1:8532/cloud_4/Furiosa.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Kingdom of the Planet of the Apes
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Kingdom of the Planet of the Apes
 http://45.225.68.1:8532/cloud_3/Kingdom.of.the.Planet.of.the.Apes.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Rebel Moon Parte dos La guerrera que deja marcas
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Rebel Moon Parte dos La guerrera que deja marcas
 http://45.225.68.1:8532/cloud_4/Rebel.Moon.Parte.dos.La.guerrera.que.deja.marcas.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Sting Arania asesina
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Sting Arania asesina
 http://45.225.68.1:8532/cloud_2/Sting.Arania.asesina.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Guerra Civil
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Guerra Civil
 http://45.225.68.1:8532/cloud_4/Guerra.Civil.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Respira
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General", Respira
 http://45.225.68.1:8532/cloud_3/Respira.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Godzilla y Kong El nuevo imperio
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Godzilla y Kong El nuevo imperio
 http://45.225.68.1:8532/cloud_4/Godzilla.y.Kong.El.nuevo.imperio.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Megamente contra el sindicato de Doom
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Megamente contra el sindicato de Doom
 http://45.225.68.1:8532/cloud_3/Megamente.contra.el.sindicato.de.Doom.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Dune Part 2
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General", Dune Part 2
 http://45.225.68.1:8532/cloud_1/Dune.Part.2.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Cazadores en tierra inhospita
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Cazadores en tierra inhospita
 http://45.225.68.1:8532/cloud_3/Cazadores.en.tierra.inhospita.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", La Liga de la Justicia Crisis en las Tierras Infinitas Parte Uno
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",La Liga de la Justicia Crisis en las Tierras Infinitas Parte Uno
 http://45.225.68.1:8532/cloud_3/La.Liga.de.la.Justicia.Crisis.en.las.Tierras.Infinitas.Parte.Uno.2024.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Rebel Moon Parte uno La ninia del fuego
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Rebel Moon Parte uno La ninia del fuego
 http://45.225.68.1:8532/cloud_1/Rebel.Moon.Parte.uno.La.ninia.del.fuego.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Pobres criaturas
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Pobres criaturas
 http://45.225.68.1:8532/cloud_4/Pobres.criaturas.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", The Marvels
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",The Marvels
 http://45.225.68.1:8532/cloud_1/The.Marvels.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", El molino secreto
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",El molino secreto
 https://cdn-2-bsas-arg.cinelatino.tv/cloud/El.molino.secreto.2023.720.sub.mp4?token=g9_J5BR4Lel1zKAmjcODiw&expires=1763261889
-
-#EXTINF:-1 group-title="Ficción", Monster High 2
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Monster High 2
 https://cdn-2-bsas-arg.cinelatino.tv/cloud/Monster.High.2.2023.720.lat.mp4?token=GI89jukGqg70ExJOyUJF6A&expires=1763261929
-
-#EXTINF:-1 group-title="Ficción", Criaturas asombrosas
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Criaturas asombrosas
 http://45.225.68.1:8532/cloud_1/Criaturas.asombrosas.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Resistencia
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Resistencia
 http://45.225.68.1:8532/cloud_2/Resistencia.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Miniespias Armagedon
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Miniespias Armagedon
 http://45.225.68.1:8532/cloud_3/Miniespias.Armagedon.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", VHS 85
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",VHS 85
 https://cdn-2-bsas-arg.cinelatino.tv/cloud/VHS.85.2023.720.lat.mp4?token=Yif7Dxfm2q5WgyQ5XxqkfQ&expires=1763262017
-
-#EXTINF:-1 group-title="Ficción", Sombras del miedo
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Sombras del miedo
 http://45.225.68.1:8532/cloud_2/Sombras.del.miedo.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Paw Patrol La super pelicula
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Paw Patrol La super pelicula
 http://45.225.68.1:8532/cloud_3/Paw.Patrol.La.super.pelicula.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Tormenta acida
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Tormenta acida
 http://45.225.68.1:8532/cloud_4/Tormenta.acida.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Blue Beetle
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Blue Beetle
 http://45.225.68.1:8532/cloud_4/Blue.Beetle.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Megalodon 2 El gran abismo
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Megalodon 2 El gran abismo
 http://45.225.68.1:8532/cloud_3/Megalodon.2.El.gran.abismo.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Liga de la Justicia Mundo Belico
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General", Liga de la Justicia Mundo Belico
 http://45.225.68.1:8532/cloud_1/Liga.de.la.Justicia.Mundo.Belico.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Biosfera
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Biosfera
 http://45.225.68.1:8532/cloud_3/Biosfera.2022.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", R A D A R El Perro Bionico
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",R A D A R El Perro Bionico
 http://45.225.68.1:8532/cloud_3/R.A.D.A.R.El.Perro.Bionico.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Flash
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Flash
 http://45.225.68.1:8532/cloud_3/Flash.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Transformers El despertar de las bestias
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Transformers El despertar de las bestias
 http://45.225.68.1:8532/cloud_1/Transformers.El.despertar.de.las.bestias.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Un reino para todos nosotros
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Un reino para todos nosotros
 http://45.225.68.1:8532/cloud_2/Un.reino.para.todos.nosotros.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Spider Man A traves del Spider Verso
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Spider Man A traves del Spider Verso
 http://45.225.68.1:8532/cloud_3/Spider.Man.A.traves.del.Spider.Verso.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Guardianes de la galaxia Vol 3
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Guardianes de la galaxia Vol 3
 http://45.225.68.1:8532/cloud_2/Guardianes.de.la.galaxia.Vol.3.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Resureccion del mal
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Resureccion del mal
 http://45.225.68.1:8532/cloud_4/Resureccion.del.mal.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", La guerra de los mundos El ataque
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",La guerra de los mundos El ataque
 http://45.225.68.1:8532/cloud_4/La.guerra.de.los.mundos.El.ataque.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Manana antes despues
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Manana antes despues
 http://45.225.68.1:8532/cloud_3/Manana.antes.despues.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", Asesino
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Asesino
 http://45.225.68.1:8532/cloud_2/Asesino.2023.720.lat.mp4
-
-#EXTINF:-1 group-title="Ficción", La Batalla de Los Super Simios
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",La Batalla de Los Super Simios
 http://45.225.68.1:8532/cloud_4/La.Batalla.de.Los.Super.Simios.2023.720.lat.mp4
 #EXTINF:-1,13 Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
